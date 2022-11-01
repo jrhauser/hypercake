@@ -2,6 +2,7 @@
 // - J. R. Hauser
 
 //let me get commandline input with prompt since it isn't in node.js
+// run "npm install prompt-sync" on your command line
 const prompt = require("prompt-sync")();
 
 //intialize lookup
